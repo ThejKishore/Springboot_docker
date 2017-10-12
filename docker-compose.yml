@@ -1,0 +1,6 @@
+version: "3"
+services:
+  helloworld:
+    image: 78494f50f69a
+    ports:
+     - "8080:8080"
